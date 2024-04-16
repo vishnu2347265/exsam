@@ -2,3 +2,11 @@ streamlit
 pandas
 plotly
 matplotlib
+nltk
+numpy
+PIL
+nltk.corpus
+nltk.tokenize
+nltk.stem
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
